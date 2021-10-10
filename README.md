@@ -2,14 +2,14 @@
 
 1. Split text book file
 
- Split text to small parts with using `book_split.py book_name.txt`
+   Split text to small parts with using `book_split.py book_name.txt`
 
 
 2. Get Google API token
 
- Run `book_tts.py -m` and read short manual
+   Run `book_tts.py -m` and read short manual
 
 
 3. Encode book files with
 
-  Run `book_tts.py book_name [options] -t token_content`
+   Run `book_tts.py book_name [options] -t token_content`
