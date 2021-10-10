@@ -13,3 +13,8 @@
 3. Encode book files with
 
    Run `book_tts.py book_name [options] -t token_content`
+
+
+4. Join mp3 files to book parts if needed
+
+   Run `book_join.py book_name`
